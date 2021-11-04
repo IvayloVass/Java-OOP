@@ -3,5 +3,5 @@ This repo holds exercises and lecture tasks solutions in course Java-OOP @ SoftU
 
 -> [Abstraction exercise](exercise01_abstraction)
 
--> [Abstraction lab(lab01_abstraction)
+-> [Abstraction lab](lab01_abstraction)
 
