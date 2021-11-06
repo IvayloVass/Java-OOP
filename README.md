@@ -9,3 +9,4 @@ This repo holds exercises and lecture tasks solutions in course Java-OOP @ SoftU
 
 -> [Encapculation-lab](lab02_encapsulation)
 
+-> [Inheritance-exercise](exercise03_inheritance)
