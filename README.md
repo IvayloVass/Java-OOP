@@ -12,3 +12,5 @@ This repo holds exercises and lecture tasks solutions in course Java-OOP @ SoftU
 -> [Inheritance-exercise](exercise03_inheritance)
 
 -> [Inheritance-lab](lab03_inheritance)
+
+-> [Interfaces and Abstraction-exercise](exercise04_interfacesAndAbstraction)
