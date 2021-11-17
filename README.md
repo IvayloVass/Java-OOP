@@ -16,3 +16,5 @@ This repo holds exercises and lecture tasks solutions in course Java-OOP @ SoftU
 -> [Interfaces and Abstraction-exercise](exercise04_interfacesAndAbstraction)
 
 -> [Interfaces and Abstraction-lab](lab04_interfacesAndAbstrsction)
+
+-> [Polymorphism-lab](lab05_polymorphism)
