@@ -22,3 +22,5 @@ This repo holds exercises and lecture tasks solutions in course Java-OOP @ SoftU
 -> [Polymorphism-exercise](exercise05_polymorphism)
 
 -> [Reflection and Annotations-lab](lab07_reflectionAndAnnotations)
+
+-> [Reflection and Annotations-exercise](exercise07_reflectionAndAnnotations)
