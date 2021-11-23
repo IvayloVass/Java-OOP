@@ -24,3 +24,5 @@ This repo holds exercises and lecture tasks solutions in course Java-OOP @ SoftU
 -> [Reflection and Annotations-lab](lab07_reflectionAndAnnotations)
 
 -> [Reflection and Annotations-exercise](exercise07_reflectionAndAnnotations)
+
+-> [Exam preparation](exam_preparation)
