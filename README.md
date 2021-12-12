@@ -28,3 +28,5 @@ This repo holds exercises and lecture tasks solutions in course Java-OOP @ SoftU
 -> [Exam preparation](exam_preparation)
 
 -> [Exceptions and error handling-lab](lab08_exceptionsAndErrorHandling)
+
+-> [Final exam](final_exam)
